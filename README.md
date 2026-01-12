@@ -61,7 +61,7 @@ Columns:
 ## Tools Used
 - MySQL
 - SQL Window Functions
-- Excel (Dashboard in progress)
+- Excel
 
 ---
 
